@@ -1,2 +1,2 @@
 test:
-  prop: !dlrow olleh
+  prop: "!dlrow olleh"

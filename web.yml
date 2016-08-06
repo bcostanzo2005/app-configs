@@ -1,2 +1,6 @@
 test:
   prop: "Some value"
+
+demo:
+  message: "This is the default message from the config"
+  title: "Cloud Config Demo - Default"
